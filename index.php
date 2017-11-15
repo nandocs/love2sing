@@ -16,7 +16,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#services">Fotoalbum</a>
-                    </li>    
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="guestbook.php">Gastenboek</a>
                     </li>
@@ -49,10 +49,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <h2 class="section-heading text-white">We've got what you need!</h2>
+                    <h2 class="section-heading text-white">Over Love2Sing</h2>
                     <hr class="light my-4">
-                    <p class="text-faded mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                    <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+                    <p class="text-faded mb-4">Gemengd koor Love2sing uit Harderwijk is opgericht in 2016 en telt momenteel 17 enthousiaste zangers en zangeressen (SATB) die veel van zingen houden.<br> Op het repertoire staan mooie arrangementen, van de Britse pianist, arrangeur, componist en producer Tom Parker.<br> Bekende projecten van Tom Parker zijn: The Young Messiah, The Young Verdi, The Young Beethoven, The Young Mozart, The Young Schubert enz. deze muziek wordt uitgevoerd door The New London Chorale.<br> De laatste jaren is The New London Chorale een vast onderdeel bij The Max of the Proms, maar sinds een paar jaar treed The New London Chorale ook weer op in Nederland, niet meer met Tom Parker, want hij is helaas overleden op 18 april 2013.<br> De muziek van Tom Parker is een mooie balans tussen de traditionele klassieke en de populaire muziek.<br> In de toekomst gaan wij kijken of wij nog andere mooie muziek kunnen vinden in deze genre, maar Tom Parker en zijn muziek zal altijd een onderdeel blijven bij Love2sing.
+                    </p>
+
+                    <h2 class="section-heading text-white">Dirigente &#038; pianist</h2>
+                    <hr class="light my-4">
+                    <p class="text-faded mb-4">Love2sing staat onder leiding van dirigente Manon Arnold en pianist Sander Worrell. Ze hebben samen veel ervaring op muziekgebied.
+                    </p>
                 </div>
             </div>
         </div>
@@ -250,6 +255,6 @@
     </section>
 
 
-<?php
+    <?php
     require 'footer.php';
 ?>
